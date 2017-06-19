@@ -1,0 +1,266 @@
+{"marinos_juzgados": [{
+        "nombre": "LAZO GALLIANI HÉCTOR ALBERTO",
+        "images": "hectorlazo.jpg",
+        "cargo": "CAPITÁN DE FRAGATA",
+        "edad": 71,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Además, lo identifica como la máxima autoridad militar en el debelamiento del motín. Durante la matanza de El Frontón  fue coordinador de enlace con los altos mandos de la Marina. Según la acusación fiscal, ordenó que se preparen dos pelotones de fusileros al mando de los tenientes Román Rodríguez y Tello Aliaga."
+    }, {
+        "nombre": "TREVEJO ROJAS CARLOS AMADOR",
+        "images": "carlostrevejo.jpg",
+        "cargo": "CAPITÁN DE CORBETA",
+        "edad": 62,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza en El Frontón tenía el cargo de jefe de elemento de maniobra de Marina. Según la acusación fiscal, estuvo al mando de la compañía de comandos de anfibios."
+    }, {
+        "nombre": "TELLO ALIAGA CARLOS ALBERTO",
+        "images": "carlostello.jpg",
+        "cargo": "TENIENTE PRIMERO",
+        "edad": 55,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajo las órdenes del capitán de Corbeta Carlos Amador Trevejo Rojas. Según la denuncia fiscal, disparó por la espalda a reos desarmados. Se retiró con el cargo de contralmirante de la Marina."
+    }, {
+        "nombre": "PATRÓN BALDWIN CÉSAR ENRIQUE",
+        "images": "cesarpatron.jpg",
+        "cargo": "TENIENTE PRIMERO",
+        "edad": 62,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón era oficial adjunto del capitán de corbeta Carlos Amador Trevejo Rojas. Según la acusación fiscal, disparó por la espalda a reos desarmados."
+    }, {
+        "nombre": "ROMÁN RODRÍGUEZ LUIS ENRIQUE",
+        "images": "luisroman.jpg",
+        "cargo": "TENIENTE PRIMERO",
+        "edad": 61,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Era jefe de un pelotón de aproximadamente 48 marinos. Además fue oficial adjunto del capitán de corbeta Carlos Amador Trevejo Rojas. Según el testigo clave Carlos Castillo Vega, ordenó disparar a reos desarmados y rendidos, a quienes pidió correr con dirección al mar mientras eran asesinados."
+    }, {
+        "nombre": "CHING BENAVIDES ELADIO ALBERTO",
+        "images": "eladioching.jpg",
+        "cargo": "TENIENTE PRIMERO",
+        "edad": 59,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón fue el jefe de escuadra, según informó al Ministerio Público el testigo cifrado como EE010102270603."
+    }, {
+        "nombre": "AGREDA HUAMÁN JUAN ALBERTO",
+        "images": "juanagreda.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 52,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajos las órdenes del capitán de Fragata Héctor Alberto Lazo Galliani y el capitán de Corbeta Carlos Amador Trevejo Rojas."
+    }, {
+        "nombre": "ÁLVAREZ MORALES FÉLIX ALEJANDRO",
+        "images": "felixalvarez.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 60,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad."
+    }, {
+        "nombre": "BELLODAS ARROYO JOSÉ DEL CARMEN",
+        "images": "josebellodas.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 55,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajo el mando del teniente AP Carlos Tello Aliaga."
+    }, {
+        "nombre": "BRYSON DE LA BARRERA JOSÉ SANTIAGO",
+        "images": "josebryson.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 65,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajos las órdenes del capitán de Fragata Héctor Alberto Lazo Galliani y el capitán de Corbeta Carlos Amador Trevejo Rojas."
+    }, {
+        "nombre": "CASTILLO VEGA CARLOS EDUARDO",
+        "images": "carloscastillo.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 55,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajo el mando del jefe de pelotón, teniente AP Luis Enrique Román Rodríguez. Luego confesó los hechos ante la Fiscalía, la Comisión de la Verdad y Reconciliación (CVR) y el Congreso de la República."
+    }, {
+        "nombre": "CASUSOL MARTÍNEZ JULIO CÉSAR",
+        "images": "juliocasusol.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 59,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía pide que reciba una condena de 25 años de cárcel por el delito de homicidio calificado en la modalidad de asesinato por ferocidad."
+    }, {
+        "nombre": "CURZO RAMÍREZ JORGE ENRIQUE",
+        "images": "jorgecurzo.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 58,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajos las órdenes del capitán de Fragata Héctor Alberto Lazo Galliani y el capitán de Corbeta Carlos Amador Trevejo Rojas."
+    }, {
+        "nombre": "DIOSES LUPU TORIBIO",
+        "images": "toribiodioses.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 63,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad."
+    }, {
+        "nombre": "GARRIDO CABRERA CARLOS AUGUSTO",
+        "images": "carlosgarrido.jpg",
+        "cargo": "MIEMBRO DE LA FUERZA DE OPERACIONES ESPECIALES",
+        "edad": 57,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por explosión, en calidad de autor mediato."
+    }, {
+        "nombre": "HERRERA CARRASCO FRANCISCO ARMANDO",
+        "images": "franciscoherrera.jpg",
+        "cargo": "MIEMBRO DE LA FUERZA DE OPERACIONES ESPECIALES",
+        "edad": 63,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por explosión, en calidad de autor mediato."
+    }, {
+        "nombre": "HERRERA CARREÑO LUIS ALFONSO",
+        "images": "luisherrera.jpg",
+        "cargo": "TENIENTE PRIMERO",
+        "edad": 56,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por explosión, en calidad de autor mediato."
+    }, {
+        "nombre": "IZQUIERDO QUISPITONGO SEGUNDO ROSARIO",
+        "images": "segundoizquierdo.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 64,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajo el mando del jefe de pelotón, teniente AP Luis Enrique Román Rodríguez."
+    }, {
+        "nombre": "JARA MONTOYA ANTONIO",
+        "images": "antoniojara.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 62,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón tenía el cargo de oficial de mar segundo (suboficial) y actuó bajo el mando del jefe de pelotón, teniente AP Luis Enrique Román Rodríguez."
+    }, {
+        "nombre": "LLONTOP DE LA CRUZ EDUARDO LUIS",
+        "images": "eduardollontop.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 50,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad."
+    }, {
+        "nombre": "MADRID SOSA HUMBERTO",
+        "images": "humbertomadrid.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 65,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajo el mando del teniente AP Carlos Tello Aliaga."
+    }, {
+        "nombre": "MARTÍNEZ CÁRDENAS AMÉRICO MANUEL",
+        "images": "americomartinez.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 54,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajo el mando del jefe de pelotón, teniente AP Luis Enrique Román Rodríguez."
+    }, {
+        "nombre": "MC LAUCHLAN WOODMAN RONALD WILLIAM",
+        "images": "ronaldmclauchlan.jpg",
+        "cargo": "MIEMBRO DE LA FUERZA DE OPERACIONES ESPECIALES",
+        "edad": 56,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por explosión, en calidad de autor mediato."
+    }, {
+        "nombre": "MORALES PALACIOS JULIO ALBERTO",
+        "images": "juliomorales.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 54,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajos las órdenes del capitán de Fragata Héctor Alberto Lazo Galliani y el capitán de Corbeta Carlos Amador Trevejo Rojas."
+    }, {
+        "nombre": "PALMA GUEVARA MANUEL FERNANDO",
+        "images": "manuelpalma.jpg",
+        "cargo": "MIEMBRO DE LA FUERZA DE OPERACIONES ESPECIALES",
+        "edad": 57,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por explosión, en calidad de autor mediato."
+    }, {
+        "nombre": "PINEDA ALACHE FEDERICO ANTONIO",
+        "images": "federicopineda.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 64,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajo el mando del jefe de pelotón, teniente AP Luis Enrique Román Rodríguez."
+    }, {
+        "nombre": "PUERTA CALDERÓN WILBERT WILLIAM",
+        "images": "wilbertpuerta.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 58,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad."
+    }, {
+        "nombre": "RAMOS TOLEDO AUGUSTO",
+        "images": "augustoramos.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 55,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Actuó bajos las órdenes del capitán de Fragata Héctor Alberto Lazo Galliani y el capitán de Corbeta Carlos Amador Trevejo Rojas."
+    }, {
+        "nombre": "ROJAS POMA ÉDGAR FÉLIX",
+        "images": "edgarrojas.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 62,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Actuó bajo el mando del teniente AP Carlos Tello Aliaga."
+    }, {
+        "nombre": "ROMERO SALDAÑA NICOLÁS DAVID",
+        "images": "nicolasromero.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 58,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Actuó bajo el mando del teniente AP Carlos Tello Aliaga."
+    }, {
+        "nombre": "SALCEDO GARCÍA JOSÉ ANTONIO",
+        "images": "josesalcedo.jpg",
+        "cargo": "OFICIAL DE MAR PRIMERO",
+        "edad": 50,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad."
+    }, {
+        "nombre": "SANABRIA PAYANO CILAS TIMOTEO",
+        "images": "cilassanabria.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 53,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajo el mando del teniente AP Carlos Tello Aliaga."
+    }, {
+        "nombre": "HIPÓLITO FERMIN SILVA TORRES",
+        "images": "silvahipolito.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 56,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza actuó bajo el mando del jefe de pelotón, teniente AP Luis Enrique Román Rodríguez."
+    }, {
+        "nombre": "PEDRO MANUEL TALLEDO TORRES",
+        "images": "pedrotalledo.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 59,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajos las órdenes del capitán de Fragata Héctor Alberto Lazo Galliani y el capitán de Corbeta Carlos Amador Trevejo Rojas."
+    }, {
+        "nombre": "ÉDGAR RAÚL VILLANUEVA PAIVA",
+        "images": "edgarvillanueva.jpg",
+        "cargo": "OFICIAL DE MAR SEGUNDO",
+        "edad": 60,
+        "situacion": "Situación de retiro",
+        "texto": "La Fiscalía lo acusa del delito de homicidio calificado en la modalidad de asesinato por ferocidad. Durante la matanza de El Frontón actuó bajos las órdenes del capitán de Fragata Héctor Alberto Lazo Galliani y el capitán de Corbeta Carlos Amador Trevejo Rojas."
+    }],
+"marinos_muertos": [
+    {
+        "nombre": "DAVID MARINO MARCIAL",
+        "images": "davidmarino.jpg",
+        "cargo": "SUBOFICIAL",
+        "texto": "Asesinado por los amotinados durante el rescate del comandante Luis De la Jara Murillo. La Marina de Guerra lo condecoró póstumamente con la Orden Cruz Peruana al Mérito Naval, Distintivo – Rojo, en el grado de oficial."
+    },
+    {
+        "nombre": "EDILBERTO JIMÉNEZ GUARDIA",
+        "images": "edilbertojimenez.jpg",
+        "cargo": "SUBOFICIAL",
+        "texto": "Asesinado por los amotinados durante el rescate del comandante Luis De la Jara Murillo. Retiro oficial por “Fallecimiento en Acto del servicio”, según Resolución Ministerial N° 0815-86-MA/DP de fecha 24 de julio de 1986."
+    },
+    {
+        "nombre": "MARCO RAMÍREZ GÓMEZ",
+        "images": "marcoramirez.jpg",
+        "cargo": "SUBOFICIAL",
+        "texto": "Fue encontrado asesinado en el primer piso del Pabellón Azul del penal El Frontón. Retiro oficial por causal de “Fallecimiento en Acto de servicio”, según R/M-0816-86-MA/DP de fecha 24 de julio de 1986."
+    }]
+}
